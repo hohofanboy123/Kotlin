@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assign1</string>
+    <string name="welcome_to_our_shop">Welcome to our shop!</string>
+    <string name="textview2">TextView</string>
+    <string name="welcome_to_our_shop1">welcome to our shop</string>
+    <string name="how_many_drinks_would_you_like_to_order">How many Drinks would you like to order?</string>
+    <string name="button">Button</string>
+</resources>
